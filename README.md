@@ -1,12 +1,14 @@
 # syscraft-graphql
 
-1. git clone https://github.com/rupesh11111/syscraft-graphql.git
-2. npm install
-3. node seed.js(it creates a admin for you
+1. >> git clone https://github.com/rupesh11111/syscraft-graphql.git
+2. >> npm install
+3. >> node seed.js
+   (it creates a admin for you
    email -> admin@admin.com
    password -> 12345678
    )
-4. npm run start (I have used nodemon for live server)
+4. >> npm run start 
+   (I have used nodemon for live server)
 5. [http://localhost:8000
    ]()
 6. here is the postman collection
