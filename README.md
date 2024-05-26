@@ -3,7 +3,7 @@
 1. >> git clone https://github.com/rupesh11111/syscraft-graphql.git
    >>
    >
-2. >> npm install
+2. >> npm install --force
    >>
    >
 3. >> node seed.js
